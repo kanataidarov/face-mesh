@@ -1,2 +1,2 @@
 # face-mesh
-Detects landmarks on a face using the model by Google
+Detects landmarks on a face using Google Mediapipe 
